@@ -1,7 +1,6 @@
 public class Fatorial {
    
-//versao interativa do calculo fatorial
- 
+//versao interativa do calculo do fatorial, incluindo o teste para n = 0
 public  int calcularFatorial(int n) {
 
 int resultado = 1;
